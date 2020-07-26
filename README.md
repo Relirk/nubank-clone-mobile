@@ -6,7 +6,7 @@
 
 ###
 
-![Realm](./.github/assets/relirk-nubank-mobile.png)
+![Nubank](./.github/assets/relirk-nubank-mobile.png)
 
 ### Tools used:
 
