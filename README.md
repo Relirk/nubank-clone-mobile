@@ -1,8 +1,8 @@
-# Nubank Clone
+# Nubank Clone (2019)
 
 :iphone: React Native application Animations and Styles
 
-- Based on the study of the [Rocketseat video](https://www.youtube.com/watch?v=bg-U0xZwcRk)
+- Based on the study of the [Rocketseat video](https://www.youtube.com/watch?v=DDm0M_rZLJo&t=1048s)
 
 ###
 
